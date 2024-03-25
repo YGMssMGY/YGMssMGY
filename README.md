@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I am currently learning Java and C++
+### 🏫 still studying in high school. 
 
 <!--
 **YGMssMGY/YGMssMGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
